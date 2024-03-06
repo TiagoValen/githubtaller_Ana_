@@ -9,5 +9,4 @@ for i in lista:
     print(i**2) 
 print("hola")
 lista = [16,20,30]
-for i in lista:
-    print(i2)
+
